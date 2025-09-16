@@ -49,3 +49,19 @@ Website/
 4. **Featured Projects** - Impact metrics and technology stacks
 5. **Work Experience** - Timeline with measurable results
 6. **Contact** - Multiple communication channels
+
+### Interactive Elements
+- Typing effect for hero subtitle
+- Scroll animations with Intersection Observer
+- Project card hover effects with 3D tilt
+- Animated statistics counters
+- Theme toggle (dark/light mode)
+- Parallax effects
+
+### Accessibility Features
+- Keyboard navigation support
+- Screen reader friendly structure
+- Focus indicators for interactive elements
+- Skip to main content link
+- High contrast mode support
+- Reduced motion support
