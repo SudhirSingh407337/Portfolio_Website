@@ -686,7 +686,7 @@ body {
     transition: var(--transition);
     margin-bottom: 0;
     width: 340px;
-    min-width: 340px;
+    min-width: 359px;
     max-width: 340px;
 }
 
@@ -894,6 +894,13 @@ body {
         padding: var(--spacing-lg);
     }
 }
+
+.fas {
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  width: 52px;
+}
+
 
 /* ===== SCROLL ANIMATIONS ===== */
 @keyframes fadeInUp {
